@@ -1,0 +1,8 @@
+<nodes>
+<node><id>citylabel</id><text>City</text></node>
+<node><id>timelabel</id><text>Updated time</text></node>
+<node><id>weatherlabel</id><text>Weather</text></node>
+<node><id>temperaturelabel</id><text>Temperature</text></node>
+<node><id>windlabel</id><text>Wind</text></node>
+</nodes>
+
